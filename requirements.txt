@@ -1,0 +1,9 @@
+PIL
+filters
+mediapipe
+numpy
+opencv-python
+pandas
+scipy
+threading
+tkinter
